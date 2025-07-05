@@ -12,5 +12,4 @@ int main()
 int ans = findingTerm(n);
 cout<<"Nth term of this AP (3n+7) is : "<<ans;
 return 0;
-
 }
