@@ -8,4 +8,5 @@ int main()
     float area = (3.14)*r*r ;
     cout<<"The area of triangle: "<<area<<endl;
     return 0; 
+    
 }
